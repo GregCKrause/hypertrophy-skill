@@ -54,7 +54,3 @@ The skill stays active until you say you're done, switch to a task you clearly w
 ## The agent-facing spec
 
 The instructions Claude actually follows live in [`SKILL.md`](./SKILL.md). If you want to understand exactly how the coaching behavior is wired — the tiers, the anti-patterns, the rules for when Claude is allowed to break character and just write the code — that's the file to read.
-
-## License
-
-MIT © Greg C Krause
